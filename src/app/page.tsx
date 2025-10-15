@@ -126,11 +126,11 @@ export default function Home() {
           <div className="flex justify-between items-center h-16">
             <div className="flex items-center">
         <Image
-                src="/lejel-labs-logo-white.png"
-                alt="Lejel Labs Media"
-                width={200}
-                height={100}
-                className="h-8 sm:h-10 md:h-12 w-auto"
+          src="/lejel-labs-logo-white.png"
+          alt="Lejel Labs Media"
+          width={200}
+          height={100}
+          className="h-8 sm:h-10 md:h-12 w-auto"
           priority
         />
             </div>
@@ -726,8 +726,8 @@ export default function Home() {
                     <div>
                       <h4 className="font-semibold text-[#EEEEEE] mb-1 text-sm sm:text-base">Telepon</h4>
                       <p className="text-[#EEEEEE]/80 text-sm sm:text-base">
-                        Faya Lusaka Aulia<br />
-                        0822 4290 8154
+                        Lejel Labs Media<br />
+                        0821 4499 8975
                       </p>
                     </div>
                   </div>
@@ -738,7 +738,7 @@ export default function Home() {
                     </div>
                     <div>
                       <h4 className="font-semibold text-[#EEEEEE] mb-1 text-sm sm:text-base">Email</h4>
-                      <p className="text-[#EEEEEE]/80 text-sm sm:text-base break-all">faya.lejellabs@gmail.com</p>
+                      <p className="text-[#EEEEEE]/80 text-sm sm:text-base break-all">Lejel25labs@gmail.com</p>
                     </div>
                   </div>
                 </div>
